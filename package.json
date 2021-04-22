@@ -1,0 +1,24 @@
+{
+  "name": "pedidos-lanches-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "node client.js",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo301/pedidos-lanches-mqtt.git"
+  },
+  "author": "Paulo Victor Lemos de Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulo301/pedidos-lanches-mqtt/issues"
+  },
+  "homepage": "https://github.com/Paulo301/pedidos-lanches-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
+}
